@@ -1,0 +1,1379 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px){                    
+}
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width:1399px){
+
+.brindor-section-title p {
+    width: 90%;
+}
+
+.service-single-box {
+    padding: 45px 10px 35px;
+}
+
+.service-single-box::before {
+    top: 34px;
+    left: 93px;
+}
+
+.brindor-section-title.text-center p {
+    width: 75%;
+}
+
+.image img {
+    width: 100%;
+}
+
+.rpost-thumb {
+    margin-right: 15px;
+}
+
+.cloud-tag li a {
+    padding: 8px 18px;
+}
+
+.footer-link-title h6 {
+    margin-top: -52px;
+}
+
+.footer-galary-title h6 {
+    margin-top: -70px;
+}
+
+}
+    
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+/*Home page one*/
+.service-single-box::before {
+    top: 33px;
+    left: 92px;
+}
+
+.service-single-box {
+    padding: 40px 10px 30px;
+}
+
+.brindor-section-title.text-center p {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.image img {
+    width: 100%;
+}
+
+.rpost-thumb {
+    margin-right: 18px;
+}
+
+.cloud-tag li a {
+    padding: 8px 18px;
+}
+
+.footer-galary-title h6 {
+    margin-top: -70px;
+}
+
+.footer-link-title h6 {
+    margin-top: -48px;
+}
+
+}
+    
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+/*Home page one*/
+.hero-title h1 {
+    font-size: 55px;
+    line-height: 58px;
+}
+
+.hero-text p {
+    width: 90%;
+}
+
+.hero-section {
+    height: 800px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+.about-shape-two img {
+    width: 80%;
+    left: 43px;
+}
+
+.about-shape {
+    bottom: 44px;
+    left: -13px;
+}
+
+.about-lists {
+    gap: 65px;
+}
+
+.about-shape-there {
+    top: -21px;
+    left: -16px;
+}
+
+.about-image img {
+    width: 80%;
+}
+
+img.img2 {
+    left: 85px;
+}
+
+.brindor-section-title p {
+    width: 100%;
+}
+
+.brindor-section-title h1 {
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.blog-des p {
+    width: 92%;
+}
+
+.service-single-box::before {
+    top: 31px;
+    left: 68px;
+}
+
+.service-single-box {
+    padding: 35px 10px 30px;
+}
+
+.service-details-thumb img {
+    width: 100%;
+}
+
+.service-details-content {
+    margin-right: 0;
+}
+
+.title h4 {
+    margin-bottom: 12px;
+    margin-top: 0;
+}
+
+.single-content-box {
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.call-action-des p {
+    width: 50%;
+}
+
+.row.footer-bottom {
+    margin-top: 70px;
+}
+
+.testi-icon {
+    margin-bottom: 40px;
+}
+
+.row.testi {
+    margin-top: 0;
+}
+
+.business-widget .inner-box {
+    padding: 35px 15px 35px;
+}
+
+.business-widget .inner-box h3 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.image img {
+    width: 100%;
+}
+
+.portfolio-info-title h2 {
+    font-size: 32px;                                
+}
+
+.contact-thumb img {
+    left: -345px;
+}
+
+.widget-sidebar-box {
+    padding: 30px 15px 30px;
+}
+
+.sidebar-search-box {
+    padding: 30px 15px 30px;
+}
+
+.rpost-thumb {
+    margin-right: 10px;
+}
+
+.rpost-title h4 a {
+    font-size: 16px;
+}
+
+.rpost-title span {
+    font-size: 14px;
+}
+
+.cloud-tag li a {
+    padding: 5px 10px;
+}
+
+.nav-links > div > a {
+    font-size: 18px;
+    padding: 30px 30px;
+
+}
+
+.comment-one__content {
+    margin-left: 30px;
+}
+
+.footer-link-title h6 {
+    margin-top: -72px;
+}
+
+.footer-galary-title h6 {
+    margin-top: -115px;
+}
+
+.team-details__bottom-left {
+    margin-right: 20px;
+}
+
+}
+    
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.sticky {
+    position: absolute !important;
+}
+        
+.brindor_nav_manu {
+    display: none;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.dark-light {
+    top: 15px;
+    right: 70px;
+}
+
+.hero-section {
+    height: 700px;
+}
+
+.hero-title h1 {
+    font-size: 50px;
+    line-height: 55px;
+}
+
+.single-service-box {
+    margin-bottom: 30px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+.about-content {
+    margin-top: 50px;
+}
+
+.about-shape {
+    bottom: 30rem;
+    left: 72px;
+}
+
+.about-lists {
+    gap: 170px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_menu ul li {
+    padding: 10px 16px;
+}
+
+.testi_text p {
+    font-size: 20px;
+}
+
+.row.testi {
+    margin-top: 0;
+}
+
+.testi-icon {
+    margin-bottom: 35px;
+}
+
+.single-team-box {
+    margin-bottom: 30px;
+}
+
+.call-action-des p {
+    width: 65%;
+}
+
+.footer-social {
+    margin-bottom: 50px;
+}
+
+.footer-link-title h6 {
+    margin-top: -90px;
+    margin-bottom: 0px;
+}
+
+.footer-link-title h6 a {
+    margin-bottom: 0;
+}
+
+.service-single-box {
+    margin-bottom: 30px;
+}
+
+.brindor-section-title.text-center p {
+    width: 75%;
+}
+
+.service-details-thumb img {
+    width: 100%;
+}
+
+.service-details-content {
+    margin-right: 0;
+}
+
+.title h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.single-content-box {
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+}
+
+.image {
+    margin-bottom: 30px;
+}
+
+.portfolio-info {
+    padding: 30px 20px 0;
+    margin-bottom: 30px;
+}
+
+.portfolio-info-content {
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.portfolio-strategy {
+    padding: 18px 20px 50px;
+}
+
+.contact-thumb img {
+    position: inherit;
+    left: 0;
+    width: 100%;
+}
+
+.nav-links > div > a {
+    padding: 25px 30px;
+}
+
+.comment-one__content {
+    margin-left: 25px;
+}
+
+.comment-form .submit-comment {
+    margin-bottom: 30px;
+}
+
+.team-details__top-right {
+    margin-left: 0;
+}
+
+.team-details__top-text-1 {
+    font-size: 26px;
+    line-height: 35px;
+}
+
+.team-details__top {
+    padding: 0 0 40px;
+}
+
+.team-details__bottom-left-text {
+    width: 100%;
+}
+
+.team-details__bottom {
+    padding-top: 20px;
+}
+
+.team-details__bottom-left {
+    margin-right: 0;
+}
+
+.cloud-tag li a {
+    padding: 5px 10px;
+}
+
+}
+    
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+.sticky {
+    position: absolute !important;
+}
+        
+.brindor_nav_manu {
+    display: none;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.dark-light {
+    top: 16px;
+    right: 60px;
+}
+
+.hero-section {
+    height:700px;
+}
+
+.brindor-section-title h1 {
+    font-size: 26px;
+    line-height: 35px;
+}
+
+.single-service-box {
+    margin-bottom: 30px;
+}
+
+.about-content {
+    margin-top: 80px;
+}
+
+.about-shape {
+    bottom: 32rem;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_menu ul li {
+    font-size: 15px;
+    padding: 8px 9px;
+    margin: 0 3px;
+}
+
+.row.testi {
+    margin-top: 0;
+}
+
+.testi-icon {
+    margin-bottom: 20px;
+}
+
+.testi_text p {
+    font-size: 18px;
+    line-height: 32px;
+    width: 90%;
+}
+
+.single-team-box {
+    margin-bottom: 30px;
+}
+
+.call-action-des p {
+    width: 90%;
+}
+
+.footer-social {
+    margin-bottom: 30px;
+}
+
+.footer-link {
+    margin-top: 30px;
+}
+
+.footer-galary {
+    margin-top: 30px;
+}
+
+.footer-right-content {
+    text-align: left;
+}
+
+.brindor-section-title p {
+    width: 95%;
+}
+
+.service-single-box {
+    margin-bottom: 30px;
+}
+
+.service-single-box::before {
+    top: 33px;
+    left: 220px;
+}
+
+.brindor-section-title.text-center p {
+    width: 100%;
+}
+
+.single-content-box {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+
+.business-widget .inner-box {
+    padding: 20px 25px 20px;
+}
+
+.service-single {
+    margin-left: 0;
+}
+
+.image img {
+    width: 100%;
+}
+
+.image {
+    margin-bottom: 20px;
+}
+
+.portfolio-info {
+    padding: 10px 10px 0;
+}
+
+.portfolio-info-content {
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.portfolio-strategy {
+    margin: 0px 0 20px;
+    padding: 18px 10px 50px;
+}
+
+.contact-thumb img {
+    position: inherit;
+    width: 100%;
+    left: 0;
+}
+
+.cloud-tag li a {
+    padding: 8px 12px;
+    font-size: 15px;
+}
+
+.blog-details__title {
+    font-size: 25px;
+}
+
+.nav-links > div > a {
+    font-size: 16px;
+    padding: 20px 20px;
+}
+
+.comment-one__content {
+    margin-left: 20px;
+}
+
+.comment-one .comment-one__single {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.comment-form .submit-comment {
+    margin-bottom: 30px;
+}
+
+.footer-link-title h6 a {
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+.footer-galary-title h6 a {
+    font-size: 20px;
+}
+
+.team-details__top-left {
+    margin-right: 0;
+}
+
+.team-details__top-img img {
+    margin-bottom: 30px;
+}
+
+.team-details__top-text-1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.team-details__top-right {
+    margin-left: 0;
+}
+
+.team-details__top {
+    padding: 0 0 30px;
+}
+
+.team-details__bottom {
+    padding-top: 20px;
+}
+
+.team-details__bottom-left-text {
+    width: 100%;
+}
+
+.team-details__bottom-left {
+    margin-right: 0;
+}
+
+}
+    
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+/*Home page one */
+.sticky {
+    position: absolute !important;
+}
+    
+.hero-section {
+    height:700px;
+}
+
+.brindor_nav_manu {
+    display: none;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.hero-title h1 {
+    font-size: 50px;
+    line-height: 55px;
+}
+
+.brindor-button {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.single-service-box {
+    margin-bottom: 30px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+.about-shape-two img {
+    width: 90%;
+    left: 0;
+}
+
+.about-content {
+    margin-top: 70px;
+}
+
+.about-shape {
+    bottom: 36rem;
+    left: 45px;
+}
+
+.about-lists {
+    gap: 60px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_menu ul li {
+    padding: 10px 16px;
+    margin: 0 8px 15px 0;
+}
+
+.row.testi {
+    margin-top: 0;
+}
+
+.testi-icon {
+    margin-bottom: 20px;
+}
+
+.testi_text p {
+    font-size: 17px;
+    line-height: 28px;
+    width: 94%;
+}
+
+.single-team-box {
+    margin-bottom: 30px;
+}
+
+.call-action-des p {
+    width: 92%;
+}
+
+.footer-social {
+    margin-bottom: 30px;
+}
+
+.footer-galary {
+    margin-top: 30px;
+}
+
+.footer-link {
+    margin-top: 30px;
+}
+
+.footer-right-content {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.footer-bottom-left p {
+    padding-left: 20px;
+}
+
+.row.counter-box {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.service-single-box {
+    margin-bottom: 30px;
+}
+
+.service-single-box::before {
+    top: 34px;
+    left: 188px;
+}
+
+.brindor-section-title.text-center p {
+    width: 90%;
+}
+
+.single-content-box {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+
+.service-details-content {
+    margin-right: 0px;
+}
+
+.title h4 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.business-widget .inner-box h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.business-widget .inner-box {
+    padding: 25px 20px 25px;
+}
+
+.service-single {
+    margin-left: 0;
+}
+
+.image img {
+    width: 100%;
+}
+
+.image {
+    margin-bottom: 20px;
+}
+
+.portfolio-info {
+    padding: 20px 15px 0;
+}
+
+.portfolio-info-content {
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.portfolio-strategy {
+    padding: 18px 20px 50px;
+}
+
+.contact-thumb img {
+    position: inherit;
+    width: 100%;
+    left: -305px;
+}
+
+.blog-details__title {
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+
+.blog-details__bottom p {
+    margin-bottom: 30px;
+}
+
+.blog-details__social-list {
+    margin-left: 58px;
+}
+
+.nav-links > div > a {
+    font-size: 16px;
+    padding: 15px 20px;
+}
+
+.comment-one__content {
+    margin-left: 15px;
+}
+
+.comment-one__content h3 {
+    margin-bottom: 0px;
+}
+
+.comment-form .submit-comment {
+    margin-bottom: 30px;
+}
+
+.footer-link-title h6 a {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.footer-galary-title h6 a {
+    font-size: 20px;
+}
+
+.team-details__top-left {
+    margin-right: 0;
+}
+
+.team-details__top-img img {
+    margin-bottom: 30px;
+}
+
+.team-details__top-right {
+    margin-left: 10px;
+}
+
+.team-details__top-text-1 {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.team-details__top-name {
+    font-size: 30px;
+}
+
+.team-details__top {
+    padding: 0 0 40px;
+}
+
+.team-details__bottom {
+    padding-top: 20px;
+}
+
+.team-details__bottom-left-text {
+    width: 100%;
+}
+
+.team-details__bottom-left {
+    margin-right: 0;
+}
+
+}
+    
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.sticky {
+    position: absolute !important;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.brindor_nav_manu {
+    display: none;
+}
+
+.hero-section {
+    height:800px;
+}
+
+.hero-title h1 {
+    font-size: 40px;
+    line-height: 45px;
+}
+
+.hero-text p {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.brindor-section-title h1 {
+    font-size: 30px;
+}
+
+.brindor-button {
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+.single-service-box {
+    margin-bottom: 30px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+.about-shape-two {
+    left: 19px;
+}
+
+.about-shape {
+    bottom: 45rem;
+    left: 4px;
+}
+
+.about-shape-two img {
+    width: 80%;
+}
+
+.about-content {
+    margin-top: 30px;
+}
+
+section.about-section .brindor-section-title h1 {
+    font-size: 26px;
+    line-height: 35px;
+}
+
+section.about-section .brindor-section-title p {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.about-lists {
+    display: inherit;
+}
+
+.about-img {
+    margin-top: 40px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_menu ul li {
+    font-size: 15px;
+    padding: 6px 10px;
+    margin: 0 5px 20px;
+}
+
+.row.testi {
+    margin-top: 0;
+}
+
+.testi-icon {
+    margin-bottom: 20px;
+}
+
+.testi_text p {
+    font-size: 16px;
+    width: 95%;
+}
+
+.team-area .brindor-section-title h1 {
+    font-size: 25px;
+}
+
+.single-team-box {
+    margin-bottom: 30px;
+}
+
+.call-action-title h2 {
+    font-size: 25px;
+}
+
+.call-action-des p {
+    font-size: 15px;
+    width: 95%;
+}
+
+.footer-social {
+    margin-bottom: 30px;
+}
+
+.footer-link-title h6 a {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.footer-link {
+    margin-bottom: 35px;
+}
+
+.footer-galary-title h6 a {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.row.footer-bottom {
+    margin-top: 50px;
+    padding: 30px 0 30px;
+}
+
+.footer-bottom-left {
+    margin-left: 15px;
+}
+
+.about-image img {
+    width: 100%;
+}
+
+img.img2 {
+    left: 110px;
+    bottom: 28px;
+}
+
+section.about-area .brindor-section-title h1 {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.brindor-section-title p {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.row.counter-box {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* inner service */
+.service-single-box {
+    margin-bottom: 30px;
+}
+
+.service-single-box::before {
+    top: 33px;
+    left: 109px;
+}
+
+.breadcumb-title h1 {
+    font-size: 43px;
+}
+
+section.service-details-area .brindor-section-title h1 {
+    font-size: 25px;
+}
+
+section.service-details-area .brindor-section-title.text-center p {
+    width: 100%;
+}
+
+.service-details-thumb img {
+    width: 100%;
+}
+
+.service-details-content {
+    margin-right: 0;
+}
+
+.title h4 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.single-content-box {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.testi_autor-img {
+    margin: 10px 0;
+}
+
+.testi_title h5 {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.sidebar-page-repair .sidebar-side .with-padding {
+    padding-right: 0;
+}
+
+.business-widget .inner-box {
+    padding: 15px 15px 20px;
+}
+
+.business-widget .inner-box h3 {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.service-single {
+    margin-left: 0;
+}
+
+.image img {
+    width: 100%;
+}
+
+.lower-content h3 {
+    font-size: 20px;
+    margin:0px;
+}
+
+.image {
+    margin-bottom: 20px;
+}
+
+h4.floor {
+    font-size: 20px;
+}
+
+.portfolio-info {
+    padding: 10px 10px 0;
+}
+
+.portfolio-info-content {
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.portfolio-info-details {
+    margin-top: 10px;
+}
+
+.portfolio-info-title h2 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.portfolio-info-details h6 {
+    font-size: 15px;
+}
+
+.portfolio-info-details span {
+    font-size: 15px;
+}
+
+h5.skill {
+    font-size: 15px;
+}
+
+.portfolio-info-shere-title h5 {
+    font-size: 16px;
+}
+
+.portfolio-strategy {
+    padding: 11px 10px 15px;
+}
+
+.portfolio-strategy-title h2 {
+    font-size: 20px;
+}
+
+.contact-thumb img {
+    position: inherit;
+    left: 0;
+    width: 100%;
+}
+
+.google-maps iframe {
+    height: 400px;
+}
+
+.rpost-thumb {
+    margin-right: 8px;
+}
+
+.sidebar-search-box {
+    padding: 20px 15px 20px;
+}
+
+.widget-sidebar-box {
+    padding: 20px 15px 20px;
+}
+
+.rpost-title h4 a {
+    font-size: 16px;
+}
+
+.rpost-title span {
+    font-size: 14px;
+}
+
+.cloud-tag li a {
+    font-size: 14px;
+    padding: 7px 15px;
+}
+
+h4.sidebar-title.upp {
+    font-size: 18px;
+}
+
+.sidebar-title.upp h3 {
+    font-size: 18px;
+}
+
+.blog-details__title {
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+
+.blog-details__tags a {
+    padding: 5px 20px 5px;
+}
+
+.blog-details__bottom p {
+    margin-bottom: 20px;
+}
+
+.blog-details__social-list {
+    margin: 5px 0 0 45px;
+}
+
+.nav-links {
+    display: inline;
+}
+
+.nav-links .prev {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.nav-links > div > a {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 20px 20px;
+}
+
+.nav-links .next {
+    display: inline;
+}
+
+h3.comment-one__title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.comment-one__content {
+    margin-left: 10px;
+}
+
+.comment-one__content h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.comment-one .comment-one__single {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    display: inline;
+}
+
+.comment-one__image {
+    margin-top: 30px;
+}
+
+.comment-form h3 {
+    font-size: 20px;
+}
+
+label {
+    font-size: 14px;
+}
+
+.comment-form .submit-comment {
+    margin-bottom: 30px;
+}
+
+.team-details__top-left {
+    margin-right: 0;
+}
+
+.team-details__top-right {
+    margin-left: 0;
+}
+
+.team-details__top-img img {
+    margin-bottom: 30px;
+}
+
+.team-details__top-text-1 {
+    font-size: 20px;
+}
+
+.team-details__top-name {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.team-details__top-title {
+    margin-bottom: 10px;
+}
+
+.team-details__top {
+    padding: 0 0 40px;
+}
+
+.team-details__bottom-left-title {
+    font-size: 24px;
+}
+
+.team-details__bottom-left {
+    margin-right: 0;
+}
+
+.team-details__bottom-left-text {
+    width: 100%;
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+
+.team-details__bottom {
+    padding-top: 20px;
+}
+
+
+}
